@@ -1,5 +1,5 @@
 ## location-entropy
-Calculate spatial location entropy of the populations in different US states 
+Calculate spatial location entropy of the population of cities in different US states 
 
 ### references
 - https://en.wikipedia.org/wiki/Entropy_(information_theory) 
